@@ -1,8 +1,8 @@
 ﻿{
   "name": "Wuitbif",
   "description": "Wuitbif",
-  "Wuitbif": [
-    "kungmh"
+  "keywords": [
+    "Wuitbif"
   ],
   "env": {
     "PROTOCOL": {
